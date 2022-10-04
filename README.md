@@ -1,1 +1,1 @@
-# odin-links-and-images
+# Odin-links-and-images for [Odin](https://www.theodinproject.com)
